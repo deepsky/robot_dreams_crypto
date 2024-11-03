@@ -1,0 +1,7 @@
+venv
+
+*.bin
+Lesson1/
+
+.ipynb_checkpoints
+__pycache__/
